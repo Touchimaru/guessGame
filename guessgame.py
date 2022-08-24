@@ -6,7 +6,7 @@ while flag:
      num = input("Enter a number:  ")
 
      if num.isdigit():
-          print("Lets play!: ")
+          print("Lets Guess!!!!! ")
           num = int(num)
           flag = False
      else:
